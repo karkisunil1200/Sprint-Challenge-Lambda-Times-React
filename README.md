@@ -29,9 +29,13 @@ Look through the application code. If you have the old Lambda Times (Applied Jav
 ## Self-Study/Essay Questions
 
 - [ ] What are PropTypes used for? Please describe why it's important to type check our data in JavaScript
+      ===> PropTypes is used to check the info the user is entering is same type and valid.
 - [ ] Describe a life-cycle event in React?
+      ==> Life-cycle event allows for the update the UI and application states.
 - [ ] Explain the details of a Higher Order Component?
+      ===> It is for reusing of component logic. It takes a function and return a new component.
 - [ ] What are three different ways to style components in React? Explain some of the benefits of each.
+      ====> normal css, sass/less/, styled components
 
 ## Project Setup
 
